@@ -6,7 +6,7 @@ export default function ClickToAction() {
                     Want to know more?
                 </h2>
                 <a
-                    href="https://drive.google.com/file/d/1ppR400NDxIKpmPl9vodVKSC-0VKHiJs1/view?usp=sharing"
+                    href="https://drive.google.com/file/d/1VTRUkC8wcl1gMlfVZDqddj53I0-UsR5k/view?usp=sharing"
                     target="_blank"
                     className="bg-violet-400 hover:bg-violet-300 text-white font-bold py-2 px-4 rounded-full"
                 >
