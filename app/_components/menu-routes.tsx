@@ -5,20 +5,20 @@ export default function MenuRoutes() {
   return (
     <ul className="flex flex-col gap-6 md:flex-row">
       <li className="text-center">
-        <Link href="/">Home</Link>
+        <Link href="#">Home</Link>
       </li>
       <li className="text-center">
-        <Link href="/">About</Link>
+        <Link href="#about">About</Link>
       </li>
       <li className="text-center">
-        <Link href="/">Skills</Link>
+        <Link href="#skills">Skills</Link>
       </li>
       <li className="text-center">
-        <Link href="/">Projects</Link>
+        <Link href="#projects">Projects</Link>
       </li>
       <li className="text-center">
         <Link
-          href="/"
+          href="#hire"
           className="border border-red-500/60 px-3 py-2 rounded-md hover:bg-red-500 transition-colors"
         >
           <PenLine className="inline-block mr-2" size={24} />

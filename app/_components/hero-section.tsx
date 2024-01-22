@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function HeroSetion() {
   return (
-    <div className="max-w-7xl min-w-[300px] mx-auto px-4 flex flex-col gap-4 md:gap-8 justify-center items-center">
+    <div id="about" className="max-w-7xl min-w-[300px] mx-auto px-4 flex flex-col gap-4 md:gap-8 justify-center items-center">
       <div className="personal-image mt-8 md:mt-20 rounded-md shadow-xl">
         <Image
           src="/assets/personal-image.jpg"

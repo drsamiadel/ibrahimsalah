@@ -24,7 +24,7 @@ export default function SkillsSection() {
     },
   ];
   return (
-    <div className="max-w-7xl mx-auto p-4 min-w-[300px] grid grid-cols-2 grid-flow-row pb-20 md:pb-32">
+    <div id="skills" className="max-w-7xl mx-auto p-4 min-w-[300px] grid grid-cols-2 grid-flow-row pb-20 md:pb-32">
       <div className="col-span-2 md:col-span-1">
         <h2 className="text-3xl md:text-4xl font-bold text-violet-400">
           Skills

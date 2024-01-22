@@ -2,7 +2,7 @@ import { Facebook, Instagram, Linkedin, Twitter } from "lucide-react";
 
 export default function SocialMediaSection() {
   return (
-    <div className="flex flex-col items-center justify-center my-12 md:my-24">
+    <div id="contact" className="flex flex-col items-center justify-center my-12 md:my-24">
       <div className="flex flex-row items-center justify-center gap-4 flex-wrap">
         <a
           href="https://www.facebook.com/ibrahimsalah01"

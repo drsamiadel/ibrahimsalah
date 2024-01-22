@@ -1,6 +1,6 @@
 export default function ClickToAction() {
     return (
-        <div className="p-4 max-w-7xl min-w-[300px] mx-auto my-8">
+        <div id="hire" className="p-4 max-w-7xl min-w-[300px] mx-auto my-8">
             <div className="flex flex-col md:flex-row items-center justify-center gap-4">
                 <h2 className="text-3xl md:text-4xl font-bold text-violet-400">
                     Want to know more?
