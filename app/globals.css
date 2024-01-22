@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+  scroll-behavior: smooth;
+}
+
 body, .bg-custom {
   background: #241538;
   @apply text-sky-100;

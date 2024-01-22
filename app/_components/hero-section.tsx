@@ -11,7 +11,7 @@ export default function HeroSetion() {
           alt="Ibrahim Salah"
         />
       </div>
-      <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-center">
+      <h1 id="hireme" className="text-4xl md:text-5xl lg:text-6xl font-bold text-center">
         Hi, I&apos;m Ibrahim Salah
       </h1>
       <h2 className="text-xl md:text-2xl lg:text-3xl font-semibold text-center text-yellow-200">
