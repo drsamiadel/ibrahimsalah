@@ -98,3 +98,13 @@ header {
     }
   }
 }
+@media (max-width: 768px) {
+  .main-skills {
+    transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+
+    img {
+      transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+      width: 45%;
+    }
+  }
+}
