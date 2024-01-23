@@ -6,7 +6,8 @@ html {
   scroll-behavior: smooth;
 }
 
-body, .bg-custom {
+body,
+.bg-custom {
   background: #241538;
   @apply text-sky-100;
 }
@@ -106,5 +107,19 @@ header {
       transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
       width: 45%;
     }
+  }
+}
+
+.footer-section {
+  background: url("/assets/wave.svg") 0% 0% no-repeat scroll,
+    url("/assets/bg-footer.jpg") center no-repeat fixed;
+  background-size: contain, cover;
+}
+
+@media (min-width: 1380px) {
+  .footer-section {
+    background: url("/assets/wave.svg") 0% -10% no-repeat scroll,
+      url("/assets/bg-footer.jpg") center no-repeat fixed;
+    background-size: contain, cover;
   }
 }

@@ -22,6 +22,13 @@ export default function HeroSetion() {
         field. I work with After Effects, Illustrator, and Photoshop. I also
         have experience in video editing and 3D animation.
       </p>
+      <a
+        href="https://drive.google.com/file/d/1Barq_EwXw8inayfzut2piEvLukozJzVU/view?usp=sharing"
+        target="_blank"
+        className="bg-violet-400/0 border border-white/20 hover:bg-violet-300 text-white font-bold py-4 px-8 rounded-full transition-all"
+      >
+        view CV
+      </a>
     </div>
   );
 }
