@@ -14,7 +14,7 @@ export default function HeroSetion() {
       <h1 id="hireme" className="blink-1 text-4xl md:text-5xl lg:text-6xl font-bold text-center">
         Hi, I&apos;m Ibrahim Salah
       </h1>
-      <h2 className="text-xl md:text-2xl lg:text-3xl font-semibold text-center text-yellow-200 wobble-hor-bottom">
+      <h2 className="text-xl md:text-2xl lg:text-3xl font-semibold text-center text-yellow-200 blink-1">
         # Motion Graphics Animator
       </h2>
       <p className="text-lg md:text-xl lg:text-2xl text-center">

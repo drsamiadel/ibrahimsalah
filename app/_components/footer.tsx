@@ -17,7 +17,7 @@ export default function Footer() {
         view CV
         </a>
         <span className="text-white text-sm mt-4" style={{ textShadow: "0 0 5px rgba(0,0,0,0.8)" }}>
-            © {new Date().getFullYear()} - Built with ❤️ by <a href="https://www.samiadel.me" target="_blank" className="underline">Sami Adel</a>
+            © {new Date().getFullYear()} - Made with ❤️ by <a href="https://www.samiadel.me" target="_blank" className="underline">Sami Adel</a>
         </span>
     </div>
   );
