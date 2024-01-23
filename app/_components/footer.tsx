@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Footer() {
   return (
-    <div className="h-[44rem] relative footer-section flex flex-col gap-8 items-center justify-center md:justify-end pb-10">
+    <div className="h-[44rem] relative footer-section img-footer flex flex-col gap-8 items-center justify-center md:justify-end pb-10">
       <h2
         className="text-3xl md:text-6xl font-bold text-white flex items-center gap-2"
         style={{ textShadow: "0 0 10px rgba(0,0,0,0.7)" }}

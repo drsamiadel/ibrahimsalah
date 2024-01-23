@@ -7,7 +7,7 @@ export default function HeaderSection() {
   return (
     <header className="max-w-7xl min-w-[300px] mx-auto flex items-center justify-between px-4 py-4">
       <div>
-        <Link href="/" className="text-3xl text-red-500">
+        <Link href="/" className="text-3xl text-lime-500">
           Ibrahim Salah
         </Link>
       </div>

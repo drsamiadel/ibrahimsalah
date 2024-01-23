@@ -19,7 +19,7 @@ export default function MenuRoutes() {
       <li className="text-center">
         <Link
           href="#hireme"
-          className="border border-red-500/60 px-3 py-2 rounded-md hover:bg-red-500 transition-colors"
+          className="border border-lime-500/60 px-3 py-2 rounded-md hover:bg-lime-800 transition-colors"
         >
           <PenLine className="inline-block mr-2" size={24} />
           Hire Me
