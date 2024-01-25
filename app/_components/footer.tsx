@@ -1,4 +1,5 @@
 import Image from "next/image";
+import CVButton from "./cvbutton";
 
 export default function Footer() {
   return (
@@ -9,16 +10,16 @@ export default function Footer() {
       >
         Want to know more?
       </h2>
-      <a
-        href="https://drive.google.com/file/d/1Barq_EwXw8inayfzut2piEvLukozJzVU/view?usp=sharing"
-        target="_blank"
-        className="bg-violet-400/20 hover:bg-violet-300 text-white font-bold py-4 px-8 rounded-full transition-all"
-        >
-        view CV
+      <CVButton />
+      <span
+        className="text-white text-sm mt-4"
+        style={{ textShadow: "0 0 5px rgba(0,0,0,0.8)" }}
+      >
+        © {new Date().getFullYear()} - Made with ❤️ by{" "}
+        <a href="https://www.samiadel.me" target="_blank" className="underline">
+          Sami Adel
         </a>
-        <span className="text-white text-sm mt-4" style={{ textShadow: "0 0 5px rgba(0,0,0,0.8)" }}>
-            © {new Date().getFullYear()} - Made with ❤️ by <a href="https://www.samiadel.me" target="_blank" className="underline">Sami Adel</a>
-        </span>
+      </span>
     </div>
   );
 }

@@ -8,7 +8,7 @@ export default function SocialMediaSection() {
           href="https://www.facebook.com/ibrahimsalah01"
           target="_blank"
           rel="noopener noreferrer"
-          className="flex flex-row items-center justify-center space-x-2 bg-white/10 hover:bg-blue-700 rounded-full py-2 px-3 transition-all"
+          className="flex flex-row items-center justify-center space-x-2 bg-white/10 hover:bg-blue-700 rounded-full py-3 px-5 transition-all"
         >
           <Facebook className="w-6 h-6" />
           <span>Facebook</span>
@@ -17,7 +17,7 @@ export default function SocialMediaSection() {
           href="https://www.instagram.com/ibrahiim_salah21?igsh=MzRlODBiNWFlZA=="
           target="_blank"
           rel="noopener noreferrer"
-          className="flex flex-row items-center justify-center space-x-2 bg-white/10 hover:bg-rose-800 rounded-full py-2 px-3 transition-all"
+          className="flex flex-row items-center justify-center space-x-2 bg-white/10 hover:bg-rose-800 rounded-full py-3 px-5 transition-all"
         >
           <Instagram className="w-6 h-6" />
           <span>Instagram</span>
@@ -26,7 +26,7 @@ export default function SocialMediaSection() {
           href="https://www.linkedin.com/in/ibrahim-salah-195b7b248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
           target="_blank"
           rel="noopener noreferrer"
-          className="flex flex-row items-center justify-center space-x-2 bg-white/10 hover:bg-blue-600 rounded-full py-2 px-3 transition-all"
+          className="flex flex-row items-center justify-center space-x-2 bg-white/10 hover:bg-blue-600 rounded-full py-3 px-5 transition-all"
         >
           <Linkedin className="w-6 h-6" />
           <span>Linkedin</span>
@@ -35,7 +35,7 @@ export default function SocialMediaSection() {
           href="https://www.behance.net/ibrahimsalah21"
           target="_blank"
           rel="noopener noreferrer"
-          className="flex flex-row items-center justify-center space-x-2 bg-white/10 hover:bg-blue-800 rounded-full py-2 px-3 transition-all"
+          className="flex flex-row items-center justify-center space-x-2 bg-white/10 hover:bg-blue-800 rounded-full py-3 px-5 transition-all"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -53,7 +53,7 @@ export default function SocialMediaSection() {
           href="https://wa.me/+201006324860"
           target="_blank"
           rel="noopener noreferrer"
-          className="flex flex-row items-center justify-center space-x-2 bg-white/10 hover:bg-green-800 rounded-full py-2 px-3 transition-all"
+          className="flex flex-row items-center justify-center space-x-2 bg-white/10 hover:bg-green-800 rounded-full py-3 px-5 transition-all"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -71,7 +71,7 @@ export default function SocialMediaSection() {
           href="https://twitter.com/Hiimaalaya"
           target="_blank"
           rel="noopener noreferrer"
-          className="flex flex-row items-center justify-center space-x-2 bg-white/10 hover:bg-blue-600 rounded-full py-2 px-3 transition-all"
+          className="flex flex-row items-center justify-center space-x-2 bg-white/10 hover:bg-blue-600 rounded-full py-3 px-5 transition-all"
         >
           <Twitter className="w-6 h-6" />
           <span>Twitter</span>

@@ -24,7 +24,7 @@ export default function MobileMenu() {
         <Menu size={24} />
       </button>
       <div
-        className="fixed -right-full top-0 bg-blue-950 h-full w-full flex items-center justify-center transition-all z-[9999]"
+        className="menu-mobile fixed -right-full top-0 bg-blue-950 h-full w-full flex items-center justify-center transition-all z-[9999] duration-300"
         ref={menuRef}
       >
         <button className="absolute right-0 top-0 p-4" onClick={closeMenu}>

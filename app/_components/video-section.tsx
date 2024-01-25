@@ -7,7 +7,7 @@ export default function VideoSection() {
       className="max-w-7xl mx-auto min-w-[300px] relative p-4 md:p-12 rounded-lg overflow-hidden"
     >
       <h2 className="text-3xl md:text-6xl font-bold text-violet-400 flex items-center gap-2">
-        Show Reel
+        ShowReel
         <div className="w-full h-0.5 bg-slate-800">
         </div>
             <Clapperboard className="text-gray-50/20 rotate-12" size={80} />
