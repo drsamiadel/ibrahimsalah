@@ -14,7 +14,7 @@ export default function HeroSetion() {
       <Pentagon className="absolute bottom-1/4 mb-10 left-32 z-[-1] w-8 h-8 md:w-12 md:h-12 lg:w-16 lg:h-16 opacity-15 -rotate-12" />
       <div className="personal-image mt-8 md:mt-20 rounded-md shadow-xl bounce-top">
         <Image
-          src="/assets/personal-image.png"
+          src="/assets/personal-image.jpg"
           width={500}
           height={500}
           alt="Ibrahim Salah"
