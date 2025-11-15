@@ -2,7 +2,10 @@ import { Facebook, Instagram, Linkedin, Twitter } from "lucide-react";
 
 export default function SocialMediaSection() {
   return (
-    <div id="contact" className="flex flex-col items-center justify-center my-12 md:my-24">
+    <div
+      id="contact"
+      className="flex flex-col items-center justify-center my-12 md:my-24"
+    >
       <div className="flex flex-row items-center justify-center gap-4 flex-wrap">
         <a
           href="https://www.facebook.com/ibrahimsalah01"
@@ -50,7 +53,7 @@ export default function SocialMediaSection() {
           <span>Behance</span>
         </a>
         <a
-          href="https://wa.me/+201097153938"
+          href="https://wa.me/+966533828775"
           target="_blank"
           rel="noopener noreferrer"
           className="flex flex-row items-center justify-center space-x-2 bg-white/10 hover:bg-green-800 rounded-full py-3 px-5 transition-all"
